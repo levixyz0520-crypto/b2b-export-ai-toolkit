@@ -1,0 +1,12 @@
+{
+  "example_notice": "Fictional buyer. Not a real company or person.",
+  "company_name": "Northstar Demo Furnishings",
+  "country": "Exampleland",
+  "website": "https://northstar-furnishings.example",
+  "buyer_type": "regional furniture distributor",
+  "product_interest": ["compressed sofa", "upholstered furniture"],
+  "estimated_volume": "one trial container, subject to review",
+  "target_timeline": "next planning quarter",
+  "decision_role": "fictional sourcing manager",
+  "source_urls": ["https://northstar-furnishings.example/about"]
+}
