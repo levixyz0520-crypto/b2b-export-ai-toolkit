@@ -1,0 +1,15 @@
+{
+  "example_notice": "Fictional product data for demonstration only.",
+  "product": {
+    "category": "upholstered furniture",
+    "model_code": "DEMO-UF-02",
+    "materials": ["engineered wood frame", "foam", "polyester textile"],
+    "configuration": "three-seat sofa",
+    "customization_questions": [
+      "fabric color and performance specification",
+      "fire-safety or chemical compliance requirements",
+      "packaging and labeling requirements",
+      "target order quantity"
+    ]
+  }
+}

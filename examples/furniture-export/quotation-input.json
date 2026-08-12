@@ -1,0 +1,12 @@
+{
+  "example_notice": "Fictional indicative values; not a commercial offer.",
+  "currency": "USD",
+  "incoterm": "FOB Example Port",
+  "items": [
+    {"description": "DEMO-CS-01 compressed sofa", "quantity": 40, "unit_price": "128.50"},
+    {"description": "DEMO-UF-02 three-seat sofa", "quantity": 20, "unit_price": "215.00"}
+  ],
+  "adjustments": {"sample_credit": "-100.00", "documentation": "25.00"},
+  "validity_days": 14,
+  "notes": ["Human review required", "Freight, insurance, duties, and taxes excluded"]
+}
