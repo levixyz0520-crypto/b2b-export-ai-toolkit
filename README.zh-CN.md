@@ -58,7 +58,7 @@ export-ai sanitize '{"email":"fictional@example.invalid"}'
 - `skills/`：带防护规则的 Codex/Agent 工作流
 - `tests/`：核心逻辑与 CLI 测试
 
-基础建设开始时，需求中提到的七个旧编号目录并不存在，因此没有删除或迁移已有知识。
+仓库早期采用编号文件结构记录客户背调、WhatsApp 话术、邮件模板、报价、产品资料、AI 工具笔记和项目参考。v0.1 开源基础版本将这些早期占位结构重构为可复用的模块、示例、Skills、测试和社区文档。
 
 ## 路线图
 

@@ -73,7 +73,7 @@ result = qualify_buyer({"company_name": "Example", "country": "Exampleland"})
 - `skills/` — concise Codex/agent workflows with guardrails
 - `tests/` — deterministic core and CLI tests
 
-The numbered legacy directories referenced in the initial foundation brief were not present in this repository at implementation time, so no existing knowledge was removed or migrated.
+The original repository used a small numbered placeholder structure for customer research, WhatsApp scripts, email templates, quotations, product data, AI notes, and project references. The v0.1 OSS foundation replaces that early structure with reusable modules, examples, skills, tests, and community documentation.
 
 ## Roadmap
 
