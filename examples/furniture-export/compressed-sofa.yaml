@@ -1,0 +1,15 @@
+example_notice: "Fictional product data for demonstration only."
+product:
+  category: compressed sofa
+  model_code: DEMO-CS-01
+  construction: foam and textile cover
+  compressed_packaging: true
+  indicative_dimensions_cm:
+    product: [185, 82, 72]
+    package: [95, 32, 32]
+  questions_before_quote:
+    - required test standard
+    - destination market labeling
+    - fabric specification
+    - order quantity
+    - target Incoterm
